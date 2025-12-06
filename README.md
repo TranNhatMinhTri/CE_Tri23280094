@@ -44,6 +44,27 @@ Dự án không chỉ dừng lại ở việc dự báo, mà còn tích hợp m�
 1. **Clone repository:**
    ```bash
    git clone https://github.com/TranNhatMinhTri/CE_Tri23280094.git
+2. **Cài đặt thư viện:**
+   ```bash
+   pip install -r requirements.txt
+3. **Chạy dự án (Run Project):**
+
+   **Cách 1: Chạy trên Google Colab (Khuyên dùng)**
+   * Mở file `phan_tich_BLK_2nd_ver.ipynb` trong repo này.
+   * Nhấn vào nút "Open in Colab" (nếu có extension) hoặc tải file về và upload lên Google Colab.
+   * **Quan trọng:** Tải file `BLK_10Y_daily.csv` từ thư mục `data/` về máy, sau đó upload lên Colab (vào mục Files bên trái màn hình).
+   * Trên thanh menu Colab, chọn **Runtime (Thời gian chạy)** > **Run all (Chạy tất cả)**.
+
+   **Cách 2: Chạy trên máy cá nhân (Local Jupyter)**
+   * Đảm bảo bạn đã cài đủ thư viện từ bước 2.
+   * Khởi động Jupyter Notebook:
+     ```bash
+     jupyter notebook
+     ```
+   * Mở file `phan_tich_BLK_2nd_ver.ipynb`.
+   * Đảm bảo file `BLK_10Y_daily.csv` nằm **cùng thư mục** với file code.
+   * Nhấn nút **Run All**.
+   
 ## 📝 Tác giả
 * **Trần Nhật Minh Trí** 
 * Liên hệ: nhatminhtri80@gmail.com
