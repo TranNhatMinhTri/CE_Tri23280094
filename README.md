@@ -50,7 +50,7 @@ Dự án không chỉ dừng lại ở việc dự báo, mà còn tích hợp m�
 3. **Chạy dự án (Run Project):**
 
    **Cách 1: Chạy trên Google Colab (Khuyên dùng)**
-   * Mở file `phan_tich_BLK_2nd_ver.ipynb` trong repo này.
+   * Mở file `BLK_Stock_Prediction.ipynb` trong repo này.
    * Nhấn vào nút "Open in Colab" (nếu có extension) hoặc tải file về và upload lên Google Colab.
    * **Quan trọng:** Tải file `BLK_10Y_daily.csv` từ thư mục `data/` về máy, sau đó upload lên Colab (vào mục Files bên trái màn hình).
    * Trên thanh menu Colab, chọn **Runtime (Thời gian chạy)** > **Run all (Chạy tất cả)**.
@@ -61,7 +61,7 @@ Dự án không chỉ dừng lại ở việc dự báo, mà còn tích hợp m�
      ```bash
      jupyter notebook
      ```
-   * Mở file `phan_tich_BLK_2nd_ver.ipynb`.
+   * Mở file `BLK_Stock_Prediction.ipynb`.
    * Đảm bảo file `BLK_10Y_daily.csv` nằm **cùng thư mục** với file code.
    * Nhấn nút **Run All**.
    
