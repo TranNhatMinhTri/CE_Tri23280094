@@ -35,9 +35,9 @@ Dự án không chỉ dừng lại ở việc dự báo, mà còn tích hợp m�
 
 | Model Strategy | Lợi nhuận (Profit) | So với thị trường | Đánh giá |
 | :--- | :--- | :--- | :--- |
-| **LSTM Strategy** | `$14,340.45` | ✅ Vượt trội | Tốt nhất |
-| **XGBoost** | `$14,340.45` | ❌ Thấp hơn | Cần cải thiện |
-| **Buy & Hold** | `$14,340.45` | (Benchmark) | - |
+| **LSTM Strategy** | `$10,119.29` | ✅ Vượt trội | Tốt nhất |
+| **XGBoost** | `$6,182.26` | ❌ Thấp hơn | Cần cải thiện |
+| **Random Forest** | `$8,030.15` | ❌ Thấp hơn | Cần cải thiện |
 
 ## ⚙️ Cài đặt & Sử dụng (Installation)
 
