@@ -7,7 +7,7 @@
 
 ## 📖 Giới thiệu (Overview)
 
-**Ultima** là một hệ thống Khoa học Dữ liệu toàn diện (End-to-End Data Science Project) được thiết kế để dự đoán biến động giá cổ phiếu BlackRock (BLK) và giả lập giao dịch tự động.
+**Ultima** là một hệ thống Khoa học Dữ liệu toàn diện (End-to-End Data Science Project) được thiết kế để dự đoán biến động giá cổ phiếu BlackRock, Inc. (BLK) và giả lập giao dịch tự động.
 
 Dự án không chỉ dừng lại ở việc dự báo, mà còn tích hợp một **Backtesting Pipeline** để kiểm chứng lợi nhuận thực tế so với chiến lược Mua và Nắm giữ (Buy & Hold).
 
@@ -31,7 +31,7 @@ Dự án không chỉ dừng lại ở việc dự báo, mà còn tích hợp m�
 
 ## 📊 Kết quả (Results)
 
-> *Kết quả chạy thử nghiệm trên dữ liệu 10 năm của BlackRock (BLK):*
+> *Kết quả chạy thử nghiệm trên dữ liệu 10 năm của BlackRock (đầu 2015- cuối 2024):*
 
 | Model Strategy | Lợi nhuận (Profit) | So với thị trường | Đánh giá |
 | :--- | :--- | :--- | :--- |
